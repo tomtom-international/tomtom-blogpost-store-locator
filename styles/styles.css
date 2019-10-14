@@ -1,0 +1,76 @@
+.ttlocator-row {
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    margin-top: 15px;
+}
+
+.ttlocator-field-label {
+    font-weight: bold;
+    width: 150px;
+}
+
+.ttlocator-text-field {
+    width: 250px;
+}
+
+.ttlocator-table-check {
+    width: 50px;
+}
+
+tbody .ttlocator-select-check {
+    margin-left: 8px;
+}
+
+.ttlocator-field-button {
+    margin-left: 15px;
+}
+
+#ttlocator-delete-selected {
+    display: none;
+    margin-left: 10px;
+}
+
+.ttlocator-delete-text p {
+    font-size: 16px;
+}
+
+#ttlocator-perm-delete {
+    margin-right: 15px;
+}
+
+.ttlocator-perm-delete-buttons {
+    margin-top: 40px;
+}
+
+.ttlocator-add-store-save {
+    margin-left: 15px;
+    display: none;
+}
+
+.ttlocator-lookup-message-area {
+    height: 50px;
+}
+.ttlocator-sdk-key-input {
+    width: 350px;
+}
+
+.ttlocator-stores-table, .ttlocator-add-store-page {
+    width: 95%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.ttlocator-add-store-button {
+    margin-top: 25px;
+}
+
+.ttlocator-add-store-page {
+    display: none;
+}
+
+#map {
+    width: 95%;
+    margin-left: auto;
+    margin-right: 25px;
+}
